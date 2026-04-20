@@ -81,14 +81,6 @@
 
 ---
 
-## 🐍 CONTRIBUTION VISUALIZATION
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bonifacemwau/bonifacemwau/output/snake.svg" />
-</p>
-
----
-
 ## 🧬 RESEARCH VISION
 
 > “Building speech intelligence systems that bring African languages into global AI infrastructure.”
