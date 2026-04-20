@@ -1,163 +1,79 @@
-# AI-Advisory-Hub-Voice-Enablement
+# 👋 Hi, I'm Boniface Mwau Kimanthi
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Project-Active-brightgreen.svg)
-![TTS](https://img.shields.io/badge/Task-Text%20to%20Speech-orange.svg)
-
-## Text-to-Speech Pipeline for Kenyan Agricultural Advisory
-
-This repository implements a **VITS-based Text-to-Speech (TTS) system** for low-resource Kenyan languages: **Swahili, Kikuyu, and Kalenjin**, enabling natural voice delivery of agricultural advisories to smallholder farmers.
-
-Swahili is used as a cross-lingual baseline, while Kikuyu is fine-tuned using the **Waxal TTS dataset** with agricultural domain adaptation. Kalenjin is incorporated using the Thiomi dataset.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Network+Systems+Specialist;Low-Resource+NLP+Researcher" />
+</p>
 
 ---
 
-## 📌 Key Features
+## 🚀 About Me
 
-- Neural TTS using **VITS (Variational Inference Text-to-Speech)**
-- Multilingual support: Swahili, Kikuyu, Kalenjin
-- Agricultural domain adaptation
-- Mel-spectrogram based synthesis
-- Low-resource language transfer learning
-- Future mobile deployment support
+🎓 First Class Honours Computer Science Graduate (Maseno University)  
+📚 MSc Computer Science (Ongoing) — Focus: Low-resource ASR & NLP  
+💡 Building AI systems for African languages and real-world impact  
+🌍 Passionate about **Speech AI, TTS, ASR, and scalable systems**
 
 ---
 
-## 📂 Repository Structure
+## ⚙️ Tech Stack
 
-```bash
-TTS/
-├── configs/
-│   ├── mel_config.yaml
-│   └── preprocessing.yaml
-│
-├── data/
-│   ├── raw/
-│   │   ├── waxal/
-│   │   └── thiomi/
-│   └── final/
-│       └── processed/
-│           ├── kikuyu/
-│           └── swahili/
-│
-├── models/
-│   └── checkpoints/
-│
-├── src/
-│   ├── audio_processor.py
-│   ├── data_utils.py
-│   ├── project_config.py
-│   └── text_processor.py
-│
-├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_preprocessing.ipynb
-│   ├── 03_feature_extraction.ipynb
-│   └── 04_model_training.ipynb
-│
-├── requirements.txt
-└── README.md
-````
+**Languages:** Python • JavaScript • TypeScript • Java • SQL  
+**AI/ML:** TensorFlow • PyTorch • Hugging Face • spaCy • scikit-learn  
+**Web:** React • Next.js • Node.js • Express • Firebase  
+**Systems:** Linux • Docker • AWS • Git • Jenkins  
+**Networking:** Cisco CCNA • VLANs • TCP/IP • Wireshark • DaloRADIUS  
 
 ---
 
-## 📊 Datasets
+## 📊 GitHub Analytics
 
-### Primary Dataset: Waxal TTS (Swahili & Kikuyu)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=foxh79&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foxh79&theme=tokyonight" />
+</p>
 
-* Source: Google Research
-* HuggingFace: [https://huggingface.co/datasets/google/WaxalNLP](https://huggingface.co/datasets/google/WaxalNLP)
-* Splits:
-
-  * Kikuyu: `kik_tts`
-  * Swahili: Swahili subset
-
-### Secondary Dataset: Thiomi (Kalenjin)
-
-* Used for Kalenjin TTS modeling
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxh79&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## ⚙️ Pipeline Overview
+## 🧠 Current Focus
 
-1. Data Exploration - dataset analysis
-2. Preprocessing - noise removal, silence trimming, normalization
-3. Feature Extraction - mel-spectrogram generation
-4. Model Training - VITS fine-tuning on Kikuyu & Swahili
-
----
-
-## 🧠 Model
-
-Uses **VITS (Variational Inference Text-to-Speech)**:
-
-* VAE-based latent modeling
-* Flow-based generative alignment
-* GAN discriminator for speech realism
+- Low-resource Speech Recognition (ASR)
+- Text-to-Speech (TTS) for African languages
+- Self-supervised learning for speech systems
+- AI systems for education & agriculture
 
 ---
 
-## 📦 Installation
+## 🐍 Contribution Snake
 
-```bash
-pip install torch torchaudio librosa soundfile pandas numpy matplotlib tqdm datasets pyyaml
-```
-
----
-
-## 🚀 Quick Start
-
-### 1. Explore Data
-
-```bash
-jupyter notebook notebooks/01_data_exploration.ipynb
-```
-
-### 2. Preprocess Data
-
-```bash
-jupyter notebook notebooks/02_preprocessing.ipynb
-```
-
-### 3. Train Model
-
-```bash
-jupyter notebook notebooks/04_model_training.ipynb
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/foxh79/foxh79/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 📈 Work in Progress...
+## 🚀 Featured Work
 
-* Full Kalenjin dataset expansion
-* XTTS-v2 zero-shot voice cloning integration
-* Mobile/edge deployment optimization
-* Real-time agricultural voice assistant
+- 🗣️ AI Advisory Hub (TTS for Kenyan languages)
+- 💬 Real-time Chat App (React + Firebase + Mistral AI)
+- 🤖 EduBot NLP Assistant (spaCy + TensorFlow)
+- 🌐 Campus Networking Systems (Cisco + DaloRADIUS)
 
 ---
 
-## 📚 Citations
+## 📫 Connect With Me
 
-### Waxal TTS Dataset
+<p align="center">
+  <a href="mailto:kbmwau@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/foxh79"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
+  <a href="https://boniface-mwau.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge"></a>
+</p>
 
-```bibtex
-@dataset{waxal2023,
-  title={Waxal TTS Dataset},
-  author={Google Research},
-  year={2023},
-  url={https://huggingface.co/datasets/google/WaxalNLP}
-}
-```
+---
 
-### VITS Model
-
-```bibtex
-@inproceedings{kim2021vits,
-  title={Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech},
-  author={Kim, Jaehyeon and Kong, Jungil and Son, Juhee},
-  booktitle={ICML},
-  year={2021}
-}
-```
+<p align="center">
+  ⚡ “Building AI systems that speak African languages into the future.”
+</p>
