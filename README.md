@@ -76,17 +76,16 @@ TTS/
 
 ### Secondary Dataset: Thiomi (Kalenjin)
 
-* License: CC-BY-4.0
 * Used for Kalenjin TTS modeling
 
 ---
 
 ## ⚙️ Pipeline Overview
 
-1. Data Exploration – dataset analysis
-2. Preprocessing – noise removal, silence trimming, normalization
-3. Feature Extraction – mel-spectrogram generation
-4. Model Training – VITS fine-tuning on Kikuyu & Swahili
+1. Data Exploration - dataset analysis
+2. Preprocessing - noise removal, silence trimming, normalization
+3. Feature Extraction - mel-spectrogram generation
+4. Model Training - VITS fine-tuning on Kikuyu & Swahili
 
 ---
 
@@ -130,7 +129,7 @@ jupyter notebook notebooks/04_model_training.ipynb
 
 ---
 
-## 📈 Future Work
+## 📈 Work in Progress...
 
 * Full Kalenjin dataset expansion
 * XTTS-v2 zero-shot voice cloning integration
