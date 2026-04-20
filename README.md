@@ -1,107 +1,169 @@
-<!-- HERO SECTION -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:020617,100:020617&text=Boniface%20Mwau&fontSize=56&fontColor=00ff41&animation=fadeIn" />
-</div>
-
-<div align="center" style="margin-top:-120px;">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1600&color=00ff41&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Low-resource+Speech+and+Language+AI;Automatic+Speech+Recognition+(ASR)+%26+NLP;Scalable+and+Data-efficient+AI+Systems" 
-    alt="Typing Animation"
-  />
-</div>
-
-<div align="center" style="margin: 28px 0 40px;">
-  <img src="https://img.shields.io/badge/Focus-ASR%20%26%20NLP-020617?style=for-the-badge&logo=mic&logoColor=00ff41&labelColor=020617" />
-  <img src="https://img.shields.io/badge/MSc-Computer%20Science-020617?style=for-the-badge&logo=graduation-cap&logoColor=00ff41&labelColor=020617" />
-  <img src="https://img.shields.io/badge/Open%20to-Global%20Opportunities-020617?style=for-the-badge&logo=globe&logoColor=00ff41&labelColor=020617" />
-</div>
+Here is a **clean copy-paste ready GitHub README (fully formatted Markdown with badges + citations included)**:
 
 ---
 
-## 👋 About Me
+````markdown
+# AI-Advisory-Hub-Voice-Enablement
 
-**AI Software Engineer & MSc Computer Science candidate**
-Specializing in **low-resource speech and language technologies**.
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Project-Active-brightgreen.svg)
+![TTS](https://img.shields.io/badge/Task-Text%20to%20Speech-orange.svg)
 
-I build **scalable, data-efficient AI systems** at the intersection of:
+## Text-to-Speech Pipeline for Kenyan Agricultural Advisory
 
-* Software Engineering
-* Machine Learning
-* Applied Research
+This repository implements a **VITS-based Text-to-Speech (TTS) system** for low-resource Kenyan languages: **Swahili, Kikuyu, and Kalenjin**, enabling natural voice delivery of agricultural advisories to smallholder farmers.
 
----
-
-## 🎓 Education
-
-| Degree                             | Institution       | Details                                                                   |
-| ---------------------------------- | ----------------- | ------------------------------------------------------------------------- |
-| **MSc Computer Science (Ongoing)** | Maseno University | AI, Speech Technologies, NLP focus                                        |
-| **BSc Computer Science**           | Maseno University | First Class Honours • CGPA: **4.69 / 5.00** • Top Student (Class of 2025) |
-
-
----
-## 🔬 Research Focus
-
-> **Low-resource ASR & NLP** — studying data scaling laws and self-supervised learning to build robust speech systems with minimal labeled data.
+Swahili is used as a cross-lingual baseline, while Kikuyu is fine-tuned using the **Waxal TTS dataset** with agricultural domain adaptation. Kalenjin is incorporated using the Thiomi dataset.
 
 ---
 
-## 🎯 Research Interests
+## 📌 Key Features
 
-* Low-resource Automatic Speech Recognition (ASR)
-* Multilingual & underrepresented language NLP
-* Data scaling laws in speech & language models
-* Self-supervised and contrastive pretraining
-* Compute-aware and data-efficient AI
-* Production-grade applied AI deployment
-
----
-
-## 🛠️ Technical Skills
-
-| Category                 | Technologies & Experience                                                                                          |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| **Speech & Language AI** | Whisper • Conformer • HuBERT • Wav2Vec 2.0 • Audio preprocessing • CTC / RNNT / Transducer • WER, CER, BLEU, ROUGE |
-| **Machine Learning**     | PyTorch • Transformers • Self-supervised learning • Data augmentation • Weights & Biases • MLflow                  |
-| **Software Engineering** | Python • React • Node.js • Firebase • REST & GraphQL APIs • Real-time systems • Clean architecture                 |
-| **Tools & Practices**    | Git • Docker • CI/CD • Linux • Reproducible research                                                               |
+- Neural TTS using **VITS (Variational Inference Text-to-Speech)**
+- Multilingual support: Swahili, Kikuyu, Kalenjin
+- Agricultural domain adaptation
+- Mel-spectrogram based synthesis
+- Low-resource language transfer learning
+- Future mobile deployment support
 
 ---
 
-## 🚀 Current Work
+## 📂 Repository Structure
 
-* Building low-resource ASR systems for African & underrepresented languages
-* Studying scaling behavior of speech foundation models
-* Exploring self-supervised pretraining strategies
-* Integrating research models into production pipelines
+```bash
+TTS/
+├── configs/
+│   ├── mel_config.yaml
+│   └── preprocessing.yaml
+│
+├── data/
+│   ├── raw/
+│   │   ├── waxal/
+│   │   └── thiomi/
+│   └── final/
+│       └── processed/
+│           ├── kikuyu/
+│           └── swahili/
+│
+├── models/
+│   └── checkpoints/
+│
+├── src/
+│   ├── audio_processor.py
+│   ├── data_utils.py
+│   ├── project_config.py
+│   └── text_processor.py
+│
+├── notebooks/
+│   ├── 01_data_exploration.ipynb
+│   ├── 02_preprocessing.ipynb
+│   ├── 03_feature_extraction.ipynb
+│   └── 04_model_training.ipynb
+│
+├── requirements.txt
+└── README.md
+````
 
 ---
 
-## 🔍 Looking For
+## 📊 Datasets
 
-* **AI Engineer** (Speech & NLP)
-* **Research Engineer** (Speech / Language AI)
-* MSc thesis opportunities
-* AI lab internships
-* Roles bridging **research ↔ production engineering**
+### Primary Dataset: Waxal TTS (Swahili & Kikuyu)
 
-🌍 **Open to remote roles & international relocation**
+* Source: Google Research
+* HuggingFace: [https://huggingface.co/datasets/google/WaxalNLP](https://huggingface.co/datasets/google/WaxalNLP)
+* Splits:
 
----
+  * Kikuyu: `kik_tts`
+  * Swahili: Swahili subset
 
-## 🤝 Connect With Me
+### Secondary Dataset: Thiomi (Kalenjin)
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-@foxh79-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/foxh79)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Boniface%20Mwau-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/boniface-mwau/)
-[![Email](https://img.shields.io/badge/Email-kbmwau@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kbmwau@gmail.com)
-
-</div>
+* License: CC-BY-4.0
+* Used for Kalenjin TTS modeling
 
 ---
 
-<div align="center">
-  <sub>⚡ Built for research, engineered for impact.</sub>
-</div>
+## ⚙️ Pipeline Overview
+
+1. Data Exploration – dataset analysis
+2. Preprocessing – noise removal, silence trimming, normalization
+3. Feature Extraction – mel-spectrogram generation
+4. Model Training – VITS fine-tuning on Kikuyu & Swahili
+
+---
+
+## 🧠 Model
+
+Uses **VITS (Variational Inference Text-to-Speech)**:
+
+* VAE-based latent modeling
+* Flow-based generative alignment
+* GAN discriminator for speech realism
+
+---
+
+## 📦 Installation
+
+```bash
+pip install torch torchaudio librosa soundfile pandas numpy matplotlib tqdm datasets pyyaml
+```
+
+---
+
+## 🚀 Quick Start
+
+### 1. Explore Data
+
+```bash
+jupyter notebook notebooks/01_data_exploration.ipynb
+```
+
+### 2. Preprocess Data
+
+```bash
+jupyter notebook notebooks/02_preprocessing.ipynb
+```
+
+### 3. Train Model
+
+```bash
+jupyter notebook notebooks/04_model_training.ipynb
+```
+
+---
+
+## 📈 Future Work
+
+* Full Kalenjin dataset expansion
+* XTTS-v2 zero-shot voice cloning integration
+* Mobile/edge deployment optimization
+* Real-time agricultural voice assistant
+
+---
+
+## 📚 Citations
+
+### Waxal TTS Dataset
+
+```bibtex
+@dataset{waxal2023,
+  title={Waxal TTS Dataset},
+  author={Google Research},
+  year={2023},
+  url={https://huggingface.co/datasets/google/WaxalNLP}
+}
+```
+
+### VITS Model
+
+```bibtex
+@inproceedings{kim2021vits,
+  title={Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech},
+  author={Kim, Jaehyeon and Kong, Jungil and Son, Juhee},
+  booktitle={ICML},
+  year={2021}
+}
+```
