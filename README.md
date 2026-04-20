@@ -28,12 +28,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=foxh79&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foxh79&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bonifacemwau&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bonifacemwau&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxh79&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonifacemwau&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/foxh79/foxh79/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/bonifacemwau/bonifacemwau/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -67,9 +67,15 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:kbmwau@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://github.com/foxh79"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
-  <a href="https://boniface-mwau.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge"></a>
+  <a href="mailto:kbmwau@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/bonifacemwau">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://boniface-mwau.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge">
+  </a>
 </p>
 
 ---
