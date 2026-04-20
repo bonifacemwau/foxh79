@@ -1,59 +1,51 @@
-# 👋 Boniface Mwau
+# ⚡ Boniface Mwau Kimanthi
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=AI+Researcher+%7C+Speech+%26+NLP+Engineer;Low-Resource+ASR+%26+TTS+Specialist;Full+Stack+Developer+%7C+Systems+Engineer;Building+AI+for+African+Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=AI+Researcher+%7C+Speech+Systems+Engineer;Low-Resource+ASR+%26+TTS+Specialist;Full+Stack+Engineer+%7C+Network+Architect;Building+African+Language+AI+Systems" />
 </p>
 
 ---
 
-## 🧠 Research Identity
+## 🧠 RESEARCH IDENTITY (ELITE LEVEL)
 
-🎓 First Class Honours Computer Science (Maseno University)  
-📚 MSc Computer Science (Ongoing) — Low-Resource ASR & NLP  
-🧪 Research Focus: Speech Intelligence for African Languages  
-🌍 Mission: Build inclusive AI systems for underrepresented languages  
+🎓 First Class Honours Computer Science  
+📚 MSc Computer Science (Ongoing) — Speech AI (ASR + TTS)  
+🧪 Focus: Low-resource Machine Learning + African NLP  
+🌍 Goal: Build production-grade speech systems for underrepresented languages  
 
 ---
 
-## ⚡ Research Focus Areas
+## 🔬 RESEARCH DOMAINS
 
-### 🗣️ Speech AI
-- Low-resource **ASR (Automatic Speech Recognition)**
-- Neural **TTS (Text-to-Speech)** systems
-- Prosody & phoneme modeling for African languages
+### 🗣️ Speech AI Systems
+- End-to-end TTS (VITS / XTTS)
+- ASR using self-supervised learning (wav2vec 2.0 / Whisper)
+- Prosody modeling for tonal African languages
 
-### 🧠 Machine Learning
-- Self-supervised learning (wav2vec, Whisper-style models)
+### 🧠 Machine Learning Research
+- Low-resource learning theory
 - Cross-lingual transfer learning
-- Data scaling laws in low-resource settings
+- Data scaling laws in speech systems
 
 ### 🌍 Applied AI Systems
-- Agricultural advisory voice systems
-- Education-focused NLP assistants
-- Real-world deployable AI pipelines
+- Agricultural advisory voice assistants
+- Educational NLP systems
+- Real-time multilingual AI tools
 
 ---
 
-## 🧬 Technical Stack
+## ⚙️ TECH STACK (PRODUCTION LEVEL)
 
-### 🧑‍💻 Programming
-Python • JavaScript • TypeScript • Java • SQL
-
-### 🤖 AI / ML
-PyTorch • TensorFlow • Hugging Face • spaCy • scikit-learn • torchaudio
-
-### 🌐 Full Stack
-React • Next.js • Node.js • Express • Firebase • Django
-
-### ☁️ Infrastructure
-Linux • Docker • AWS • Git • CI/CD • Jenkins
-
-### 🌐 Networking
-Cisco CCNA • TCP/IP • VLANs • Wireshark • DaloRADIUS
+**Languages:** Python • TypeScript • JavaScript • Java • SQL  
+**AI/ML:** PyTorch • TensorFlow • Hugging Face • torchaudio • spaCy  
+**Backend:** Node.js • Express • Firebase • Django  
+**Frontend:** React • Next.js  
+**Infra:** Docker • Linux • AWS • CI/CD  
+**Networking:** Cisco CCNA • TCP/IP • VLANs • Wireshark  
 
 ---
 
-## 📊 GitHub Intelligence Dashboard
+## 📊 LIVE GITHUB INTELLIGENCE
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bonifacemwau&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -66,46 +58,30 @@ Cisco CCNA • TCP/IP • VLANs • Wireshark • DaloRADIUS
 
 ---
 
-## 🧠 Current Research Work
+## 🚀 FLAGSHIP PROJECTS
 
-- 🔬 Low-resource Speech Recognition for African Languages  
-- 🎙️ TTS systems using VITS & XTTS architectures  
-- 📊 Data scaling laws for speech models in low-resource settings  
-- 🌍 Cross-lingual transfer learning for ASR/TTS  
+### 🗣️ AI Advisory Hub
+- Multilingual TTS system (Swahili, Kikuyu, Kalenjin)
+- Agriculture-focused speech generation pipeline
+- VITS-based architecture
 
----
+### 💬 Real-Time Chat System
+- React + Firebase + Mistral AI
+- 500+ concurrent users
+- Optimized low-latency architecture
 
-## 🚀 Flagship Projects
+### 🤖 EduBot AI Assistant
+- NLP chatbot using spaCy + TensorFlow
+- 90% accuracy on structured queries
 
-### 🗣️ AI Advisory Hub (TTS System)
-- Multilingual TTS for Swahili, Kikuyu, Kalenjin  
-- Agriculture-focused speech generation system  
-- VITS-based neural synthesis pipeline  
-
----
-
-### 💬 Real-Time AI Chat System
-- React + Firebase + Mistral AI integration  
-- Real-time messaging for 500+ users  
-- Optimized low-latency API architecture  
+### 🌐 Network Infrastructure Systems
+- Cisco enterprise deployment
+- DaloRADIUS authentication system
+- 95% uptime optimization
 
 ---
 
-### 🤖 EduBot NLP Assistant
-- SpaCy + TensorFlow-based academic assistant  
-- 90%+ response accuracy on structured queries  
-- Adaptive learning-based chatbot system  
-
----
-
-### 🌐 Campus Network Infrastructure
-- Cisco-based enterprise networking setup  
-- WiFi authentication via DaloRADIUS  
-- CCTV/IP system optimization (95% uptime)  
-
----
-
-## 🐍 Contribution Snake (Live)
+## 🐍 CONTRIBUTION VISUALIZATION
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bonifacemwau/bonifacemwau/output/snake.svg" />
@@ -113,30 +89,31 @@ Cisco CCNA • TCP/IP • VLANs • Wireshark • DaloRADIUS
 
 ---
 
-## 🧩 Philosophy
+## 🧬 RESEARCH VISION
 
-> “AI systems are only truly intelligent when they serve those excluded from the digital frontier.”
+> “Building speech intelligence systems that bring African languages into global AI infrastructure.”
 
 ---
 
-## 📫 Contact & Links
+## 📫 CONTACT
 
 <p align="center">
   <a href="mailto:kbmwau@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Direct%20Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://github.com/bonifacemwau">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://boniface-mwau.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge">
   </a>
 </p>
 
 ---
 
-## ⚡ Closing Statement
+## ⚡ ELITE STATUS
 
-<p align="center">
-  <b>Building the next generation of African Speech AI systems — from research to real-world impact.</b>
-</p>
+✔ Research-grade AI profile  
+✔ Industry-ready full stack engineer  
+✔ Speech AI specialist (ASR + TTS)  
+✔ African NLP systems builder  
