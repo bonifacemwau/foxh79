@@ -1,4 +1,4 @@
-name: Generate Snake Contribution
+name: Generate Snake
 
 on:
   schedule:
@@ -11,11 +11,10 @@ jobs:
 
     steps:
       - name: Generate snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: bonifacemwau
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          outputs: dist/snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
