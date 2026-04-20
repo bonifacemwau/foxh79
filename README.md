@@ -1,4 +1,4 @@
-# 👋 Boniface Mwau Kimanthi
+# 👋 Boniface Mwau
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=AI+Researcher+%7C+Speech+%26+NLP+Engineer;Low-Resource+ASR+%26+TTS+Specialist;Full+Stack+Developer+%7C+Systems+Engineer;Building+AI+for+African+Languages" />
