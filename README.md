@@ -1,105 +1,143 @@
 # 🧠 Boniface Mwau
 
 <p align="center">
-Speech AI Researcher | Low-Resource NLP Engineer | African Language AI Systems Builder
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=00F5D4&center=true&vCenter=true&width=1000&lines=Speech+AI+Researcher+%7C+Low-Resource+NLP;Text-to-Speech+%26+ASR+Engineer;African+Language+AI+Systems+Builder;Machine+Learning+%7C+Deep+Learning+Researcher" />
 </p>
 
 ---
 
-## 🎓 ACADEMIC PROFILE
+## 🎓 ACADEMIC & RESEARCH PROFILE
 
-BSc Computer Science — First Class Honours (Maseno University)  
-MSc Computer Science (Ongoing) — Speech AI & Low-Resource NLP  
-
-Research focus on building scalable speech intelligence systems for African languages, with emphasis on data-efficient learning, multilingual modeling, and real-world deployment of AI systems in low-resource environments.
+🎓 BSc Computer Science — First Class Honours (Maseno University)  
+📚 MSc Computer Science (Ongoing) — Speech AI & Low-Resource NLP  
+🧪 Research Focus: **Neural Speech Systems for African Languages**  
+🌍 Long-term Vision: Build scalable speech intelligence for underrepresented languages  
 
 ---
 
 ## 🔬 RESEARCH STATEMENT
 
-I work on designing and implementing speech and language systems for low-resource African languages. My focus includes:
-
-- Text-to-Speech (TTS) systems for underrepresented languages  
-- Automatic Speech Recognition (ASR) in low-resource settings  
-- Self-supervised learning for speech representations  
-- Cross-lingual transfer learning techniques  
-- Deployment of AI systems in real-world constrained environments  
-
----
-
-## 📚 PUBLICATIONS & RESEARCH OUTPUTS
-
-### Low-Resource Speech Synthesis for African Languages
-Ongoing MSc research focusing on neural TTS systems (VITS-based approaches) for Kikuyu, Swahili, and Kalenjin. The work explores data efficiency, prosody modeling, and domain adaptation for agricultural speech applications.
+> I design and build **speech and language intelligence systems for low-resource African languages**, focusing on:
+>
+> - End-to-end Text-to-Speech (TTS)
+> - Automatic Speech Recognition (ASR)
+> - Self-supervised learning for speech
+> - Cross-lingual transfer learning
+> - Real-world deployment of AI systems in constrained environments
 
 ---
 
-### Cross-Lingual ASR Transfer Learning
-Research comparing wav2vec 2.0 and Whisper-based architectures in low-resource African language settings. Focus includes performance benchmarking, fine-tuning strategies, and adaptation efficiency.
+## 🧠 RESEARCH AREAS
 
----
+### 🗣️ Speech Intelligence
+- VITS / XTTS-based neural TTS systems
+- Whisper / wav2vec 2.0 ASR fine-tuning
+- Prosody modeling for tonal languages
+- Multilingual speech synthesis
 
-### Agricultural Voice AI Systems
-Applied research on speech-driven advisory systems for agriculture. The goal is to improve accessibility of agricultural knowledge through multilingual speech interfaces.
+### 🧬 Machine Learning Research
+- Self-supervised learning (SSL) for speech
+- Low-resource optimization strategies
+- Data scaling laws in speech models
+- Representation learning for phonetics
 
----
-
-## 🚀 FLAGSHIP PROJECTS
-
-AI Advisory Hub — End-to-end multilingual TTS system supporting Swahili, Kikuyu, and Kalenjin using neural speech synthesis techniques.
-
-Low-Resource ASR System — Experimental ASR pipeline using wav2vec 2.0 and Whisper models for African language recognition tasks.
-
-Real-Time Chat AI — Scalable messaging system built with React, Firebase, and Mistral AI supporting real-time interaction at scale.
-
-EduBot NLP Assistant — AI-powered academic assistant using spaCy and TensorFlow for intent classification and question answering.
+### 🌍 Applied AI Systems
+- Agricultural advisory voice assistants
+- Education-focused NLP systems
+- Offline-first AI deployment in rural contexts
 
 ---
 
 ## ⚙️ TECHNICAL STACK
 
-Programming Languages: Python, JavaScript, TypeScript, Java, SQL  
-Machine Learning: PyTorch, TensorFlow, Hugging Face, spaCy, torchaudio  
-Backend: Node.js, Express, Django, Firebase  
-Frontend: React, Next.js  
-Infrastructure: Docker, AWS, Linux, CI/CD pipelines  
-Networking: Cisco CCNA, TCP/IP, VLANs, Wireshark  
+### 🧑‍💻 Core Languages
+Python • TypeScript • JavaScript • Java • SQL
+
+### 🤖 AI / ML Stack
+PyTorch • TensorFlow • Hugging Face • torchaudio • spaCy • NLTK
+
+### 🌐 Full Stack Engineering
+React • Next.js • Node.js • Express • Firebase • Django
+
+### ☁️ Infrastructure
+Docker • AWS • Linux • CI/CD • GitHub Actions
+
+### 🌐 Networking Systems
+Cisco CCNA • TCP/IP • VLANs • Wireshark • Enterprise Networking
 
 ---
 
-## 📊 GITHUB PROFILE
+## 📊 GITHUB RESEARCH DASHBOARD
 
 <p align="center">
-GitHub activity and contribution metrics available on profile.
+  <img src="https://github-readme-stats.vercel.app/api?username=bonifacemwau&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bonifacemwau&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonifacemwau&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 CONTRIBUTION VISUALIZATION
+## 🧪 FLAGSHIP RESEARCH PROJECTS
 
-<p align="center">
-Snake contribution graph enabled via GitHub Actions workflow.
-</p>
-
----
-
-## 🧬 RESEARCH CONTRIBUTIONS
-
-- Development of low-resource speech synthesis systems for African languages  
-- Benchmarking of ASR architectures in multilingual low-data settings  
-- Exploration of cross-lingual transfer learning for speech tasks  
-- Deployment of agricultural AI voice systems for rural accessibility  
+### 🗣️ AI Advisory Hub (Speech AI System)
+- Multilingual TTS (Swahili, Kikuyu, Kalenjin)
+- VITS-based speech synthesis pipeline
+- Agricultural domain adaptation
+- Production-oriented architecture
 
 ---
 
-## 🌍 RESEARCH VISION
+### 🎙️ Low-Resource ASR Research
+- wav2vec 2.0 fine-tuning experiments
+- Whisper-based baseline comparisons
+- Cross-lingual transfer learning analysis
 
-To build foundational speech intelligence systems that make African languages first-class participants in global AI ecosystems.
+---
+
+### 💬 Real-Time AI Communication System
+- React + Firebase + Mistral AI
+- Scalable chat system (500+ users)
+- Low-latency API optimization
+
+---
+
+### 🤖 NLP Educational Assistant
+- spaCy + TensorFlow pipeline
+- Intent classification + QA system
+- 90%+ structured query accuracy
+
+---
+
+## 📈 RESEARCH CONTRIBUTIONS (POSITIONING)
+
+✔ Low-resource speech modeling framework  
+✔ Multilingual African TTS pipeline (VITS-based)  
+✔ ASR adaptation strategies for underrepresented languages  
+✔ Real-world deployment of AI in agriculture + education  
+
+---
+
+## 🧬 RESEARCH VISION
+
+> “To build foundational speech AI systems that make African languages first-class citizens in global artificial intelligence.”
 
 ---
 
 ## 📫 CONTACT
 
-Email: kbmwau@gmail.com  
-GitHub: https://github.com/bonifacemwau  
-Portfolio: https://boniface-mwau.vercel.app  
+<p align="center">
+  <a href="mailto:kbmwau@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Research%20Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/bonifacemwau">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://boniface-mwau.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge">
+  </a>
+</p>
+
+---
