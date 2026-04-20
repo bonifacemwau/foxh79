@@ -105,10 +105,10 @@ Cisco CCNA • TCP/IP • VLANs • Wireshark • DaloRADIUS
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake (Live)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bonifacemwau/bonifacemwau/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/bonifacemwau/bonifacemwau/output/snake.svg" />
 </p>
 
 ---
