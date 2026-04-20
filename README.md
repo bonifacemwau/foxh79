@@ -1,150 +1,89 @@
-# 🧠 Boniface Mwau
+# 🧠 Boniface Mwau Kimanthi
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=00F5D4&center=true&vCenter=true&width=1000&lines=Speech+AI+Researcher+%7C+Low-Resource+NLP;Text-to-Speech+%26+ASR+Engineer;African+Language+AI+Systems+Builder;Machine+Learning+%7C+Deep+Learning+Researcher" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00F5D4&center=true&vCenter=true&width=1000&lines=Speech+AI+Researcher+%7C+Low-Resource+NLP;Text-to-Speech+%26+ASR+Systems+Engineer;African+Language+AI+Researcher;Machine+Learning+%7C+Deep+Learning+Scientist" />
 </p>
 
 ---
 
-## 🎓 ACADEMIC & RESEARCH PROFILE
+## 🎓 ACADEMIC PROFILE
 
 🎓 BSc Computer Science — First Class Honours (Maseno University)  
 📚 MSc Computer Science (Ongoing) — Speech AI & Low-Resource NLP  
-🧪 Research Focus: **Neural Speech Systems for African Languages**  
-🌍 Long-term Vision: Build scalable speech intelligence for underrepresented languages  
+🧪 Research Focus: Neural Speech Systems for African Languages  
+🌍 Goal: Build foundational AI for underrepresented languages  
 
 ---
 
 ## 🔬 RESEARCH STATEMENT
 
-> I design and build **speech and language intelligence systems for low-resource African languages**, focusing on:
+> My research focuses on developing **scalable speech intelligence systems for low-resource African languages**, combining:
 >
 > - End-to-end Text-to-Speech (TTS)
 > - Automatic Speech Recognition (ASR)
-> - Self-supervised learning for speech
+> - Self-supervised learning
 > - Cross-lingual transfer learning
-> - Real-world deployment of AI systems in constrained environments
+> - Real-world deployment of speech AI systems
 
 ---
 
-## 🧠 RESEARCH AREAS
+# 🧠 RESEARCH ARCHITECTURE DIAGRAMS
 
-### 🗣️ Speech Intelligence
-- VITS / XTTS-based neural TTS systems
-- Whisper / wav2vec 2.0 ASR fine-tuning
-- Prosody modeling for tonal languages
-- Multilingual speech synthesis
+## 🗣️ 1. Text-to-Speech (TTS) Pipeline — VITS Architecture
 
-### 🧬 Machine Learning Research
-- Self-supervised learning (SSL) for speech
-- Low-resource optimization strategies
-- Data scaling laws in speech models
-- Representation learning for phonetics
+```mermaid id="diag1"
+flowchart LR
+A[Text Input] --> B[Text Normalization]
+B --> C[Phoneme Conversion]
+C --> D[VITS Encoder]
+D --> E[Latent Space Representation]
+E --> F[Flow-based Decoder]
+F --> G[Mel-Spectrogram]
+G --> H[Neural Vocoder]
+H --> I[Speech Output]
+🎙️ 2. Automatic Speech Recognition (ASR) Pipeline
+🌍 3. Multilingual Transfer Learning Framework
+📚 PUBLICATIONS & RESEARCH OUTPUTS
+📝 Peer-Reviewed / In Progress
+1. Low-Resource Speech Synthesis for African Languages
+Type: MSc Research Paper (In Preparation)
+Focus: VITS-based TTS for Kikuyu, Swahili, Kalenjin
+Status: Experimental results under evaluation
+2. Cross-Lingual Transfer Learning for ASR in Low-Resource Settings
+Type: Working Paper
+Focus: wav2vec 2.0 + Whisper fine-tuning comparison
+Contribution: Data efficiency benchmarks
+3. Agricultural Voice AI Systems for Rural Accessibility
+Type: Applied AI Systems Study
+Focus: Domain-specific TTS for agricultural advisories
+Impact: Real-world deployment prototype
+🧪 FLAGSHIP RESEARCH PROJECTS
+🗣️ AI Advisory Hub (Speech AI System)
+Multilingual TTS (Swahili, Kikuyu, Kalenjin)
+VITS-based synthesis pipeline
+Agricultural domain adaptation system
+🎙️ Low-Resource ASR Research Pipeline
+wav2vec 2.0 fine-tuning experiments
+Whisper baseline comparisons
+Cross-lingual transfer learning evaluation
+💬 Real-Time AI Communication System
+React + Firebase + Mistral AI
+500+ concurrent user scaling
+Low-latency API optimization
+📊 GITHUB RESEARCH DASHBOARD
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bonifacemwau&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bonifacemwau&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonifacemwau&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+🐍 CONTRIBUTION VISUALIZATION
+<p align="center"> <img src="https://raw.githubusercontent.com/bonifacemwau/bonifacemwau/output/snake.svg" /> </p>
+🧬 RESEARCH CONTRIBUTIONS
 
-### 🌍 Applied AI Systems
-- Agricultural advisory voice assistants
-- Education-focused NLP systems
-- Offline-first AI deployment in rural contexts
+✔ Low-resource speech synthesis systems (VITS-based)
+✔ ASR fine-tuning strategies for African languages
+✔ Cross-lingual transfer learning benchmarks
+✔ Real-world agricultural AI voice systems
 
----
+🌍 RESEARCH VISION
 
-## ⚙️ TECHNICAL STACK
+“To build foundational speech intelligence systems that make African languages first-class citizens in global AI infrastructure.”
 
-### 🧑‍💻 Core Languages
-Python • TypeScript • JavaScript • Java • SQL
-
-### 🤖 AI / ML Stack
-PyTorch • TensorFlow • Hugging Face • torchaudio • spaCy • NLTK
-
-### 🌐 Full Stack Engineering
-React • Next.js • Node.js • Express • Firebase • Django
-
-### ☁️ Infrastructure
-Docker • AWS • Linux • CI/CD • GitHub Actions
-
-### 🌐 Networking Systems
-Cisco CCNA • TCP/IP • VLANs • Wireshark • Enterprise Networking
-
----
-
-## 📊 GITHUB RESEARCH DASHBOARD
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bonifacemwau&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bonifacemwau&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonifacemwau&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧪 FLAGSHIP RESEARCH PROJECTS
-
-### 🗣️ AI Advisory Hub (Speech AI System)
-- Multilingual TTS (Swahili, Kikuyu, Kalenjin)
-- VITS-based speech synthesis pipeline
-- Agricultural domain adaptation
-- Production-oriented architecture
-
----
-
-### 🎙️ Low-Resource ASR Research
-- wav2vec 2.0 fine-tuning experiments
-- Whisper-based baseline comparisons
-- Cross-lingual transfer learning analysis
-
----
-
-### 💬 Real-Time AI Communication System
-- React + Firebase + Mistral AI
-- Scalable chat system (500+ users)
-- Low-latency API optimization
-
----
-
-### 🤖 NLP Educational Assistant
-- spaCy + TensorFlow pipeline
-- Intent classification + QA system
-- 90%+ structured query accuracy
-
----
-
-## 📈 RESEARCH CONTRIBUTIONS
-
-✔ Low-resource speech modeling framework  
-✔ Multilingual African TTS pipeline (VITS-based)  
-✔ ASR adaptation strategies for underrepresented languages  
-✔ Real-world deployment of AI in agriculture + education  
-
----
-
-## 🧬 RESEARCH VISION
-
-> “To build foundational speech AI systems that make African languages first-class citizens in global artificial intelligence.”
-
----
-
-## 📫 CONTACT
-
-<p align="center">
-  <a href="mailto:kbmwau@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Research%20Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://github.com/bonifacemwau">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://boniface-mwau.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge">
-  </a>
-</p>
-
----
-
-## 🏁 ACADEMIC POSITIONING
-
-✔ MSc-level research profile  
-✔ Publication-ready AI work (ASR/TTS systems)  
-✔ PhD application–aligned research identity  
-✔ Industry + academic hybrid AI engineer  
+📫 CONTACT
+<p align="center"> <a href="mailto:kbmwau@gmail.com"> <img src="https://img.shields.io/badge/Email-Research%20Contact-red?style=for-the-badge&logo=gmail"> </a> <a href="https://github.com/bonifacemwau"> <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"> </a> <a href="https://boniface-mwau.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge"> </a> </p>
