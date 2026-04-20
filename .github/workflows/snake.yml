@@ -16,7 +16,7 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: foxh79
+          github_user_name: bonifacemwau
           outputs: dist/snake.svg
 
       - name: Push output to branch
