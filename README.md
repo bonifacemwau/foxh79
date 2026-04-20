@@ -1,8 +1,3 @@
-Here is a **clean copy-paste ready GitHub README (fully formatted Markdown with badges + citations included)**:
-
----
-
-````markdown
 # AI-Advisory-Hub-Voice-Enablement
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
@@ -32,7 +27,7 @@ Swahili is used as a cross-lingual baseline, while Kikuyu is fine-tuned using th
 
 ## 📂 Repository Structure
 
-```bash
+
 TTS/
 ├── configs/
 │   ├── mel_config.yaml
