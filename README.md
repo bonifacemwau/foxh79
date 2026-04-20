@@ -27,7 +27,7 @@ Swahili is used as a cross-lingual baseline, while Kikuyu is fine-tuned using th
 
 ## 📂 Repository Structure
 
-
+'''bash
 TTS/
 ├── configs/
 │   ├── mel_config.yaml
