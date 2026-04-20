@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake Contribution
 
 on:
   schedule:
@@ -10,16 +10,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
-      - name: Generate snake animation
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: bonifacemwau
-          outputs: dist/snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-      - name: Push output to branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
